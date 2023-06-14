@@ -22,7 +22,7 @@ h2{
 
 .list{
     display: table-row flex;
-    text-align: right;
+    text-align: center;
     align-items: center;
     font-style: oblique;
     background-color: chartreuse;
