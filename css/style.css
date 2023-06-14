@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+    font-variant-east-asian: full-width;
+    text-align: center;
+    background-color: bisque;
+    color: rgb(red, green, blue);
+    
+}
+h2{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    font-style: oblique;
+}
+
+.list{
+    display: table-row flex;
+    text-align: right;
+    align-items: center;
+    font-style: oblique;
+    background-color: chartreuse;
+    font-size: x-large;
+}
