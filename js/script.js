@@ -1,11 +1,14 @@
-let nombre= prompt("Ingresa tu nombre por favor:");
-let apellido= prompt("Ingresa tu apellido:");
-let nombreCompleto= nombre + " " + apellido;
+let nombre= "Rodrigo";
+let apellido= "Diaz";
+let edad= 48;
+let presenteONo= true;
+let estatura= 1.69;
 
-console.log("Bienvenido", nombreCompleto);
-
-
-
+console.log("Nombre " + nombre + "  " + typeof nombre);
+console.log("Nombre " + apellido + "  " + typeof apellido);
+console.log("Nombre " + edad + "  " + typeof edad);
+console.log("Nombre " + presenteONo + "  " + typeof presenteONo);
+console.log("Nombre " + estatura + "  " + typeof estatura);
 
 
 
